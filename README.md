@@ -29,15 +29,6 @@ Made with basic HTML, CSS, JavaScript and backend with PHP.
 ![thumb1](https://user-images.githubusercontent.com/64949957/121956544-e1a21000-cd7e-11eb-9ae0-8096ba7b765f.PNG)
 ![thumb2](https://user-images.githubusercontent.com/64949957/121956614-fa122a80-cd7e-11eb-9311-d425885c1bf1.PNG)
 
-<h2>📬 Contact</h2>
-
-If you want to contact me, you can reach me through below handles.
-
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
-
-© 2021 Jigar Sable
-
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
